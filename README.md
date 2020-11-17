@@ -2,6 +2,12 @@
 
 最后更新日期：2020 年 8 月 14 日
 
+# 修改
+
+- 新增 UniversityList.json，删除省份分组
+- 新增 University.sql，可直接导入数据库
+- 新增 UniversityTableSeeder，可供 Laravel 项目使用
+
 ## 数据来源
 
 - 普通高等学校、公安院校
